@@ -1,0 +1,93 @@
+.burgerIngeridents{
+    height: 200px;
+    width: 100%;
+    overflow: auto;
+}
+.burgerIngeridents p{
+    text-align: center;
+}
+.ingeridentsBlock{
+    background-color: #f4b46c;
+    margin: 30px auto0;
+    display: table;
+    max-width: 20px;
+    width: 100%;
+    border-radius: 3px;
+    padding: 20px;
+    text-align: center;
+}
+.ingeridentsBlock p{
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.ingerBtns{
+    margin: 0 0 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.ingerBtn{
+    border: 0;
+    background-color: #c17116;
+    color: #fff;
+    padding: 5px;
+    cursor: pointer;
+    display: table;
+    width: 95px;
+}
+.topSide{
+    background-image: url(../assets/top.jpg);
+    background-size: 200px;
+    height: 80px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.buttomSide{
+    background-image: url(../assets/bottom.jpg);
+    background-size: 200px;
+    height: 38px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.lettuceSide{
+    background-image: url(../assets/lettuse.jpg);
+    background-size: 200px;
+    height: 18px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.tomatoSide{
+    background-image: url(../assets/tomato.jpg);
+    background-size: 200px;
+    height: 14px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.cheeseSide{
+    background-image: url(../assets/cheese.jpg);
+    background-size: 200px;
+    height: 10px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.meatSide{
+background-image: url(../assets/meat.jpg);
+    background-size: 200px;
+    height: 30px;
+    width: 100%;
+    display: table;
+    background-repeat: no-repeat;
+    background-position: center;
+}
